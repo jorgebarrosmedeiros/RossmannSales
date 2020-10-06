@@ -1,6 +1,6 @@
 # Forecasting sales volume for Rossmann stores
 
-![](img/project_banner.png)
+![](img/rossmann_store.png)
 
 ---
 
